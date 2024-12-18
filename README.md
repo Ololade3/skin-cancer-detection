@@ -31,7 +31,7 @@ Other required packages are listed in requirements.txt.
 # 1. Clone the Repository
 
 # Clone the repository to your local machine
-git clone https://github.com/IdUsoro22/skin-cancer-detection.git
+https://github.com/Ololade3/skin-cancer-detection.git
 
 # Navigate into the project directory
 cd skin-cancer-detection
@@ -89,7 +89,7 @@ skin-cancer-detection/
 - git add .
 - git commit -m "Initial commit"
 - git branch -M main
-- git remote add origin https://github.com/IdUsoro22/skin-cancer-detection.git
+- git remote add origin https://github.com/Ololade3/skin-cancer-detection.git
 - git push -u origin main
 
 License
